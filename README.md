@@ -1,1 +1,1 @@
-Not finished project from JBAcademy.
+Another one completed project from JetBrains Academy.
